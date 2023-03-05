@@ -1,0 +1,10 @@
+Restaurant
+- Students would be able to view the available items from the restaurant for ordering
+- Students would be able to select which items and how many of each to order
+- Students would be able to review their order before checkout
+- Students would be able to view the receipt and status of their order
+
+- Admin would be able to view the list of orders and the items they ordered
+- Admin would be able to approve the orders
+- Admin would be able to update the order status
+- Once the order has been accepted, the stock of that product would be deducted
